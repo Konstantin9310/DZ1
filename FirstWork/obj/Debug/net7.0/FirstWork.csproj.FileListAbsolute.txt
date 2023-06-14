@@ -1,0 +1,15 @@
+/Users/user/Desktop/DZ1/FirstWork/bin/Debug/net7.0/FirstWork
+/Users/user/Desktop/DZ1/FirstWork/bin/Debug/net7.0/FirstWork.deps.json
+/Users/user/Desktop/DZ1/FirstWork/bin/Debug/net7.0/FirstWork.runtimeconfig.json
+/Users/user/Desktop/DZ1/FirstWork/bin/Debug/net7.0/FirstWork.dll
+/Users/user/Desktop/DZ1/FirstWork/bin/Debug/net7.0/FirstWork.pdb
+/Users/user/Desktop/DZ1/FirstWork/obj/Debug/net7.0/FirstWork.csproj.AssemblyReference.cache
+/Users/user/Desktop/DZ1/FirstWork/obj/Debug/net7.0/FirstWork.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Desktop/DZ1/FirstWork/obj/Debug/net7.0/FirstWork.AssemblyInfoInputs.cache
+/Users/user/Desktop/DZ1/FirstWork/obj/Debug/net7.0/FirstWork.AssemblyInfo.cs
+/Users/user/Desktop/DZ1/FirstWork/obj/Debug/net7.0/FirstWork.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/DZ1/FirstWork/obj/Debug/net7.0/FirstWork.dll
+/Users/user/Desktop/DZ1/FirstWork/obj/Debug/net7.0/refint/FirstWork.dll
+/Users/user/Desktop/DZ1/FirstWork/obj/Debug/net7.0/FirstWork.pdb
+/Users/user/Desktop/DZ1/FirstWork/obj/Debug/net7.0/FirstWork.genruntimeconfig.cache
+/Users/user/Desktop/DZ1/FirstWork/obj/Debug/net7.0/ref/FirstWork.dll
